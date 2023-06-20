@@ -1,0 +1,11 @@
+127.0.0.1 - - [07/May/2023:22:23:10 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [07/May/2023:22:23:12 +0530] "GET /Project4/ HTTP/1.1" 200 317
+0:0:0:0:0:0:0:1 - - [07/May/2023:23:15:08 +0530] "GET /Project4/WelcomeCtl HTTP/1.1" 200 1553
+0:0:0:0:0:0:0:1 - - [07/May/2023:23:15:25 +0530] "GET /Project4/WelcomeCtl HTTP/1.1" 200 1553
+0:0:0:0:0:0:0:1 - - [07/May/2023:23:15:27 +0530] "GET /Project4/LoginCtl HTTP/1.1" 200 3071
+0:0:0:0:0:0:0:1 - - [07/May/2023:23:15:36 +0530] "POST /Project4/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [07/May/2023:23:15:36 +0530] "GET /Project4/WelcomeCtl HTTP/1.1" 200 3328
+0:0:0:0:0:0:0:1 - - [07/May/2023:23:15:39 +0530] "GET /Project4/ctl/MarksheetCtl HTTP/1.1" 200 7117
+0:0:0:0:0:0:0:1 - - [07/May/2023:23:18:32 +0530] "GET /Project4/LoginCtl?operation=logout HTTP/1.1" 200 3094
+0:0:0:0:0:0:0:1 - - [07/May/2023:23:18:39 +0530] "GET /Project4/WelcomeCtl HTTP/1.1" 200 1553
+0:0:0:0:0:0:0:1 - - [07/May/2023:23:56:48 +0530] "GET /Project4/WelcomeCtl HTTP/1.1" 200 1553
